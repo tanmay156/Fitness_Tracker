@@ -1,0 +1,54 @@
+
+.custom-navbar {
+  background: #1e1e2f; /* Solid dark background */
+  padding: 12px 20px;
+}
+
+/* Brand Styling */
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #f8f9fa !important;
+}
+
+.navbar-brand:hover {
+  color: #ffcc00 !important;
+}
+
+/* Navbar links */
+.nav-link-custom {
+  color: #d1d1e0 !important;
+  font-size: 1rem;
+  padding: 8px 15px;
+}
+
+.nav-link-custom:hover {
+  color: #ffcc00 !important;
+}
+
+/* Active link styling */
+.active-link {
+  font-weight: bold;
+  color: #ffcc00 !important;
+  border-bottom: 2px solid #ffcc00;
+}
+
+/* Welcome text */
+.user-welcome {
+  color: #f8f9fa;
+  font-size: 1rem;
+  margin-right: 15px;
+}
+
+/* Simple Logout Button */
+.logout-button {
+  background-color: #ff4d4d !important;
+  border: none !important;
+  padding: 8px 15px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.logout-button:hover {
+  background-color: #ff1a1a !important;
+}
